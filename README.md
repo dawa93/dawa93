@@ -7,19 +7,23 @@
 
 ### Hello, I'm Donghwan, Front-end developer👨🏻‍💻  based in 🇰🇷 <br /> interested in all things UX/UI design!
 
+Visit <a href='https://velog.io/@hwanieee' target="_blank">my blog</a> if you'd like to take a behind the scenes look at the developmental process.
+<br /><a href='mailto:dawa9293@gmail.com'>Email</a> me if you'd like to get in contact!
+
+
 
 <br />
 <br />
 
-🖥 [Front-end] React, Typescript, Redux, Javascript, Styled-components
+🖥 [Front-end] React(Hooks), Typescript, Redux, Javascript, Styled-components
 
-⚙️ [Front-end] Node.js, Express, Sequelize
+⚙️ [Back-end] Node.js, Express, MYSQL with Sequelize
 
 🏗 [Deploy] AWS
 
-🏷 [Etc] Git, Git-flow, Source Tree.
+🏷 [Etc] Git, Git-flow, Source Tree
 
-👨🏻‍🎨 [Design] Clean Architecture, GoF Design Pattern.
+👨🏻‍🎨 [Design] Adobe XD,Figma, Illustrator, Photoshop 
 
 <!--
 **dawa93/dawa93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
