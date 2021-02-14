@@ -24,9 +24,9 @@ Visit <a href='https://velog.io/@hwanieee' target="_blank">my blog</a> if you'd 
 
 🏗 [Deploy] AWS
 
-🏷 [Etc] Git, Git-flow, Source Tree
+🏷 [Etc] Git, Git-flow
 
-👨🏻‍🎨 [Design] Adobe XD,Figma, Illustrator, Photoshop 
+👨🏻‍🎨 [Design] Adobe XD ,Figma, Illustrator, Photoshop 
 
 <!--
 **dawa93/dawa93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
