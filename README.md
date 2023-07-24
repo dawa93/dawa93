@@ -20,7 +20,7 @@ Visit <a href='https://velog.io/@hwanieee' target="_blank">my blog</a> if you'd 
 
 🖥 [Front-end] React, Typescript, Recoil, MUI, React-query, emotion, SCSS
 
-🖥 [Native] React-Native, Flutter
+📱 [Native] React-Native, Flutter
 
 🏷 [Etc] Git, Git-flow
 
