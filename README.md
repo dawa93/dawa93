@@ -18,15 +18,12 @@ Visit <a href='https://velog.io/@hwanieee' target="_blank">my blog</a> if you'd 
 <br />
 <br />
 
-🖥 [Front-end] React(Hooks), Typescript, Redux, Javascript, Styled-components
+🖥 [Front-end] React, Typescript, Recoil, MUI, React-query, emotion, SCSS
 
-⚙️ [Back-end] Node.js, Express, MYSQL with Sequelize
-
-🏗 [Deploy] AWS
+🖥 [Native] React-Native, Flutter
 
 🏷 [Etc] Git, Git-flow
 
-👨🏻‍🎨 [Design] Adobe XD ,Figma, Illustrator, Photoshop 
 
 <!--
 **dawa93/dawa93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
