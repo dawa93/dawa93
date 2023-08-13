@@ -18,7 +18,7 @@ Visit <a href='https://velog.io/@hwanieee' target="_blank">my blog</a> if you'd 
 <br />
 <br />
 
-🖥 [Front-end] React, Typescript, Recoil, MUI, React-query, emotion, SCSS
+🖥 [Front-end] React, Typescript, Recoil, Next, MUI, React-query, emotion, SCSS
 
 📱 [Native] React-Native, Flutter
 
